@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/adte-net/base01",
+	"description": "summary of the plugin's purpose",
+	"author": "jgouin",
+	"version": "0.0.1",
+	"core-version": ">=5.0.8",
+	"source": "https://github.com/adte-net/base01",
+	"plugin-type": "plugin"
+}
